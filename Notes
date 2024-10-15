@@ -1,0 +1,48 @@
+## **Selenium** ##
+What is Selenium?
+
+- Selenium basically use to Automate the browsers(modern).
+    - Browsers it supports
+        - Chrome
+        - Edge
+        - Safari
+        - IE
+        - Firefox
+        - Opera - Removed from selenium
+- 3 Parts
+    - IDE -> 0.01% - Record and Play Back
+    - **Webdriver** - 97% -> Automate Browsers
+    - Selenium Grid 2.99%
+        - Use to run multiple testcase on different machines.
+        - Parallel Execution.
+
+
+
+
+You can't use Selenium for below:
+
+1. Captcha
+2. File Download, Upload ( partial support)
+3. OTP Verification
+4. Image Processing
+5. Desktop Application Automation
+6. Sending emails
+7. Mobile Automation
+8. QR Code...
+9. Report Generation
+
+
+**Where you don't have to use Selenium?**
+
+1. Automation the user interactions.
+2. Login, Registration - there hacks to automate mate them
+3. Partial Support File, Download
+4. Parallel Testing
+5. more than 7+ browsers modern
+6. Windows , linux, Mac,
+7. C#, pYTHON, js, Java , ruby
+
+
+Selenium RC -> JS Code was execute - Remotly to perform the actions
+
+- Selenium 3, 4 ->
