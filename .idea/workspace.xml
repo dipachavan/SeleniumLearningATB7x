@@ -4,12 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8630fd1b-2080-41e1-8c96-2aa236c95255" name="Changes" comment="">
+    <list default="true" id="8630fd1b-2080-41e1-8c96-2aa236c95255" name="Changes" comment="test">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/automation/com/ex_selenium/ex_19102024/AwesomeQA_Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/automation/com/ex_selenium/ex_19102024/VWOLogin_Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Notes" beforeDir="false" afterPath="$PROJECT_DIR$/Notes" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/automation/com/ex_selenium/Selenium001_Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/automation/com/ex_selenium/Selenium001_Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,18 +25,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "dipachavan"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;dipachavan&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/dipachavan/SeleniumLearningATB7x.git",
-    "accountId": "3f031904-dca3-4707-9a70-aec1d1b3afa8"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/dipachavan/SeleniumLearningATB7x.git&quot;,
+    &quot;accountId&quot;: &quot;3f031904-dca3-4707-9a70-aec1d1b3afa8&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -51,12 +50,51 @@
   "keyToString": {
     "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "TestNG.AwesomeQA_Test.createAccountAndVerify.executor": "Run",
+    "TestNG.AwesomeQA_Test.executor": "Run",
     "TestNG.Selenium001_Test.executor": "Run",
+    "TestNG.VWOLogin_Test.loginAndVerifyName.executor": "Run",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="TestNG.VWOLogin_Test.loginAndVerifyName">
+    <configuration name="AwesomeQA_Test" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumLearningATB7x" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.automation.com.ex_selenium.ex_19102024.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.automation.com.ex_selenium.ex_19102024" />
+      <option name="MAIN_CLASS_NAME" value="org.automation.com.ex_selenium.ex_19102024.AwesomeQA_Test" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AwesomeQA_Test.createAccountAndVerify" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumLearningATB7x" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.automation.com.ex_selenium.ex_19102024.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.automation.com.ex_selenium.ex_19102024" />
+      <option name="MAIN_CLASS_NAME" value="org.automation.com.ex_selenium.ex_19102024.AwesomeQA_Test" />
+      <option name="METHOD_NAME" value="createAccountAndVerify" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Selenium001_Test" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="SeleniumLearningATB7x" />
       <extension name="coverage">
@@ -74,8 +112,29 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="VWOLogin_Test.loginAndVerifyName" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumLearningATB7x" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.automation.com.ex_selenium.ex_19102024.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.automation.com.ex_selenium.ex_19102024" />
+      <option name="MAIN_CLASS_NAME" value="org.automation.com.ex_selenium.ex_19102024.VWOLogin_Test" />
+      <option name="METHOD_NAME" value="loginAndVerifyName" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.VWOLogin_Test.loginAndVerifyName" />
+        <item itemvalue="TestNG.AwesomeQA_Test" />
+        <item itemvalue="TestNG.AwesomeQA_Test.createAccountAndVerify" />
         <item itemvalue="TestNG.Selenium001_Test" />
       </list>
     </recent_temporary>
@@ -89,6 +148,19 @@
       <option name="presentableId" value="Default" />
       <updated>1728915015027</updated>
     </task>
+    <task id="LOCAL-00001" summary="test">
+      <option name="closed" value="true" />
+      <created>1729000177293</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1729000177293</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
   </component>
 </project>
