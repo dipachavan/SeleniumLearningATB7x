@@ -4,11 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8630fd1b-2080-41e1-8c96-2aa236c95255" name="Changes" comment="test">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/automation/com/ex_selenium/ex_19102024/AwesomeQA_Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/automation/com/ex_selenium/ex_19102024/VWOLogin_Test.java" afterDir="false" />
+    <list default="true" id="8630fd1b-2080-41e1-8c96-2aa236c95255" name="Changes" comment="19th Oct-Task">
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/automation/com/ex_selenium/ex_27102024/Selenium_JSExecutor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/automation/com/ex_selenium/ex_27102024/Selenium_JSExecutor_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/automation/com/ex_selenium/ex_27102024/Selenium_SVG.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/automation/com/ex_selenium/ex_27102024/Selenium_SVG_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/automation/com/ex_selenium/ex_27102024/Selenium_WebTables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/automation/com/ex_selenium/ex_27102024/WebTables_Assignment_OrangeHRM.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/automation/com/ex_selenium/ex_19102024/AwesomeQA_Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/automation/com/ex_selenium/ex_19102024/AwesomeQA_Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,46 +52,45 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "TestNG.AwesomeQA_Test.createAccountAndVerify.executor": "Run",
     "TestNG.AwesomeQA_Test.executor": "Run",
     "TestNG.Selenium001_Test.executor": "Run",
+    "TestNG.Selenium_JSExecutor.test_JS_ExecutorDemo.executor": "Run",
+    "TestNG.Selenium_JSExecutor_2.test_js.executor": "Run",
+    "TestNG.Selenium_SVG.executor": "Run",
+    "TestNG.Selenium_SVG.searchNewDelhi.executor": "Run",
+    "TestNG.Selenium_SVG.searchTripura.executor": "Run",
+    "TestNG.Selenium_SVG_2.executor": "Run",
+    "TestNG.Selenium_SVG_2.test_svg_india_search_click.executor": "Run",
+    "TestNG.Selenium_WebTables.Test_WebTables.executor": "Run",
     "TestNG.VWOLogin_Test.loginAndVerifyName.executor": "Run",
+    "TestNG.WebTables_Assignment_OrangeHRM.deleteTerminatedEmployee.executor": "Run",
+    "TestNG.WebTables_Assignment_OrangeHRM.executor": "Run",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="TestNG.VWOLogin_Test.loginAndVerifyName">
-    <configuration name="AwesomeQA_Test" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.automation.com.ex_selenium.ex_27102024" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.WebTables_Assignment_OrangeHRM.deleteTerminatedEmployee">
+    <configuration name="Selenium_JSExecutor_2.test_js" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="SeleniumLearningATB7x" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.automation.com.ex_selenium.ex_19102024.*" />
+          <option name="PATTERN" value="org.automation.com.ex_selenium.ex_27102024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="org.automation.com.ex_selenium.ex_19102024" />
-      <option name="MAIN_CLASS_NAME" value="org.automation.com.ex_selenium.ex_19102024.AwesomeQA_Test" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="AwesomeQA_Test.createAccountAndVerify" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="SeleniumLearningATB7x" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.automation.com.ex_selenium.ex_19102024.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="org.automation.com.ex_selenium.ex_19102024" />
-      <option name="MAIN_CLASS_NAME" value="org.automation.com.ex_selenium.ex_19102024.AwesomeQA_Test" />
-      <option name="METHOD_NAME" value="createAccountAndVerify" />
+      <option name="PACKAGE_NAME" value="org.automation.com.ex_selenium.ex_27102024" />
+      <option name="MAIN_CLASS_NAME" value="org.automation.com.ex_selenium.ex_27102024.Selenium_JSExecutor_2" />
+      <option name="METHOD_NAME" value="test_js" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -95,16 +98,52 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Selenium001_Test" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Selenium_JSExecutor.test_JS_ExecutorDemo" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="SeleniumLearningATB7x" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.automation.com.ex_selenium.*" />
+          <option name="PATTERN" value="org.automation.com.ex_selenium.ex_27102024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="org.automation.com.ex_selenium" />
-      <option name="MAIN_CLASS_NAME" value="org.automation.com.ex_selenium.Selenium001_Test" />
+      <option name="PACKAGE_NAME" value="org.automation.com.ex_selenium.ex_27102024" />
+      <option name="MAIN_CLASS_NAME" value="org.automation.com.ex_selenium.ex_27102024.Selenium_JSExecutor" />
+      <option name="METHOD_NAME" value="test_JS_ExecutorDemo" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Selenium_WebTables.Test_WebTables" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumLearningATB7x" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.automation.com.ex_selenium.ex_27102024.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.automation.com.ex_selenium.ex_27102024" />
+      <option name="MAIN_CLASS_NAME" value="org.automation.com.ex_selenium.ex_27102024.Selenium_WebTables" />
+      <option name="METHOD_NAME" value="Test_WebTables" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WebTables_Assignment_OrangeHRM" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumLearningATB7x" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.automation.com.ex_selenium.ex_27102024.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.automation.com.ex_selenium.ex_27102024" />
+      <option name="MAIN_CLASS_NAME" value="org.automation.com.ex_selenium.ex_27102024.WebTables_Assignment_OrangeHRM" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -112,17 +151,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VWOLogin_Test.loginAndVerifyName" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="WebTables_Assignment_OrangeHRM.deleteTerminatedEmployee" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="SeleniumLearningATB7x" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.automation.com.ex_selenium.ex_19102024.*" />
+          <option name="PATTERN" value="org.automation.com.ex_selenium.ex_27102024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="org.automation.com.ex_selenium.ex_19102024" />
-      <option name="MAIN_CLASS_NAME" value="org.automation.com.ex_selenium.ex_19102024.VWOLogin_Test" />
-      <option name="METHOD_NAME" value="loginAndVerifyName" />
+      <option name="PACKAGE_NAME" value="org.automation.com.ex_selenium.ex_27102024" />
+      <option name="MAIN_CLASS_NAME" value="org.automation.com.ex_selenium.ex_27102024.WebTables_Assignment_OrangeHRM" />
+      <option name="METHOD_NAME" value="deleteTerminatedEmployee" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -132,10 +171,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.VWOLogin_Test.loginAndVerifyName" />
-        <item itemvalue="TestNG.AwesomeQA_Test" />
-        <item itemvalue="TestNG.AwesomeQA_Test.createAccountAndVerify" />
-        <item itemvalue="TestNG.Selenium001_Test" />
+        <item itemvalue="TestNG.WebTables_Assignment_OrangeHRM.deleteTerminatedEmployee" />
+        <item itemvalue="TestNG.WebTables_Assignment_OrangeHRM" />
+        <item itemvalue="TestNG.Selenium_WebTables.Test_WebTables" />
+        <item itemvalue="TestNG.Selenium_JSExecutor_2.test_js" />
+        <item itemvalue="TestNG.Selenium_JSExecutor.test_JS_ExecutorDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -156,11 +196,20 @@
       <option name="project" value="LOCAL" />
       <updated>1729000177293</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="19th Oct-Task">
+      <option name="closed" value="true" />
+      <created>1729329228975</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1729329228975</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test" />
-    <option name="LAST_COMMIT_MESSAGE" value="test" />
+    <MESSAGE value="19th Oct-Task" />
+    <option name="LAST_COMMIT_MESSAGE" value="19th Oct-Task" />
   </component>
 </project>

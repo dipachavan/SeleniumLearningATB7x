@@ -33,9 +33,9 @@ public class AwesomeQA_Test
         WebElement submit= driver.findElement(By.xpath("//input[@value=\"Continue\"]"));
 
         //setting values
-        firstName.sendKeys("fname");
+        firstName.sendKeys("ffname");
         lastName.sendKeys("lname");
-        email.sendKeys("dipa4321@gmail.com");
+        email.sendKeys("dipa43221@gmail.com");
         telephone.sendKeys("5895785369");
         password.sendKeys("qa4321");
         confirm.sendKeys("qa4321");
@@ -43,6 +43,7 @@ public class AwesomeQA_Test
         checkBox.click();
         submit.click();
         WebElement response= driver.findElement(By.xpath("//h1[contains(text(),'Your Account Has Been Created!')]"));
+        System.out.println(response);
         if(response.isDisplayed())
         {
             System.out.println("You have successfully created an account");
