@@ -4,15 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8630fd1b-2080-41e1-8c96-2aa236c95255" name="Changes" comment="19th Oct-Task">
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/automation/com/ex_selenium/ex_27102024/Selenium_JSExecutor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/automation/com/ex_selenium/ex_27102024/Selenium_JSExecutor_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/automation/com/ex_selenium/ex_27102024/Selenium_SVG.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/automation/com/ex_selenium/ex_27102024/Selenium_SVG_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/automation/com/ex_selenium/ex_27102024/Selenium_WebTables.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/automation/com/ex_selenium/ex_27102024/WebTables_Assignment_OrangeHRM.java" afterDir="false" />
+    <list default="true" id="8630fd1b-2080-41e1-8c96-2aa236c95255" name="Changes" comment="27th Oct-Task-Webtable">
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/automation/com/ex_selenium/ex_02112024/ActionsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/automation/com/ex_selenium/ex_02112024/DragAndDrop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/automation/com/ex_selenium/ex_02112024/FileUpload.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/automation/com/ex_selenium/ex_02112024/RelativeLocators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/automation/com/ex_selenium/ex_02112024/RelativeLocators_P2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/automation/com/ex_selenium/ex_02112024/ScrollTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/automation/com/ex_selenium/ex_02112024/Selenium55_Relative_Locators_P3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/automation/com/ex_selenium/ex_02112024/TestDemo.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/automation/com/ex_selenium/ex_02112024/WebTables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/automation/com/ex_selenium/ex_02112024/WindowHandles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/automation/com/ex_selenium/ex_02112024/WindowHandles_WithIFrame.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/automation/com/ex_selenium/ex_19102024/AwesomeQA_Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/automation/com/ex_selenium/ex_19102024/AwesomeQA_Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,9 +60,20 @@
     "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "TestNG.ActionsTest.actions_Test.executor": "Run",
+    "TestNG.ActionsTest.actions_Test_MakeMyTrip.executor": "Run",
+    "TestNG.ActionsTest.actions_Test_SpiceJet.executor": "Run",
     "TestNG.AwesomeQA_Test.createAccountAndVerify.executor": "Run",
     "TestNG.AwesomeQA_Test.executor": "Run",
+    "TestNG.DragAndDrop.DragAndDropTest.executor": "Run",
+    "TestNG.FileUpload.webTable_Test.executor": "Run",
+    "TestNG.RelativeLocators.relativeLocators_Test.executor": "Run",
+    "TestNG.RelativeLocators_P2.relativeLocators_Test.executor": "Run",
+    "TestNG.ScrollTest.actions_Test_MakeMyTrip.executor": "Run",
+    "TestNG.ScrollTest.executor": "Run",
+    "TestNG.ScrollTest.scroll_Test_MakeMyTrip.executor": "Run",
     "TestNG.Selenium001_Test.executor": "Run",
+    "TestNG.Selenium55_Relative_Locators_P3.executor": "Run",
     "TestNG.Selenium_JSExecutor.test_JS_ExecutorDemo.executor": "Run",
     "TestNG.Selenium_JSExecutor_2.test_js.executor": "Run",
     "TestNG.Selenium_SVG.executor": "Run",
@@ -68,29 +83,33 @@
     "TestNG.Selenium_SVG_2.test_svg_india_search_click.executor": "Run",
     "TestNG.Selenium_WebTables.Test_WebTables.executor": "Run",
     "TestNG.VWOLogin_Test.loginAndVerifyName.executor": "Run",
+    "TestNG.WebTables.executor": "Run",
     "TestNG.WebTables_Assignment_OrangeHRM.deleteTerminatedEmployee.executor": "Run",
     "TestNG.WebTables_Assignment_OrangeHRM.executor": "Run",
+    "TestNG.WindowHandles.windowHandle_Test.executor": "Run",
+    "TestNG.WindowHandles_WithIFrame.executor": "Run",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.automation.com.ex_selenium.ex_02112024" />
       <recent name="org.automation.com.ex_selenium.ex_27102024" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.WebTables_Assignment_OrangeHRM.deleteTerminatedEmployee">
-    <configuration name="Selenium_JSExecutor_2.test_js" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.Selenium55_Relative_Locators_P3">
+    <configuration name="DragAndDrop.DragAndDropTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="SeleniumLearningATB7x" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.automation.com.ex_selenium.ex_27102024.*" />
+          <option name="PATTERN" value="org.automation.com.ex_selenium.ex_02112024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="org.automation.com.ex_selenium.ex_27102024" />
-      <option name="MAIN_CLASS_NAME" value="org.automation.com.ex_selenium.ex_27102024.Selenium_JSExecutor_2" />
-      <option name="METHOD_NAME" value="test_js" />
+      <option name="PACKAGE_NAME" value="org.automation.com.ex_selenium.ex_02112024" />
+      <option name="MAIN_CLASS_NAME" value="org.automation.com.ex_selenium.ex_02112024.DragAndDrop" />
+      <option name="METHOD_NAME" value="DragAndDropTest" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -98,17 +117,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Selenium_JSExecutor.test_JS_ExecutorDemo" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="FileUpload.webTable_Test" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="SeleniumLearningATB7x" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.automation.com.ex_selenium.ex_27102024.*" />
+          <option name="PATTERN" value="org.automation.com.ex_selenium.ex_02112024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="org.automation.com.ex_selenium.ex_27102024" />
-      <option name="MAIN_CLASS_NAME" value="org.automation.com.ex_selenium.ex_27102024.Selenium_JSExecutor" />
-      <option name="METHOD_NAME" value="test_JS_ExecutorDemo" />
+      <option name="PACKAGE_NAME" value="org.automation.com.ex_selenium.ex_02112024" />
+      <option name="MAIN_CLASS_NAME" value="org.automation.com.ex_selenium.ex_02112024.FileUpload" />
+      <option name="METHOD_NAME" value="webTable_Test" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -116,17 +135,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Selenium_WebTables.Test_WebTables" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="RelativeLocators_P2.relativeLocators_Test" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="SeleniumLearningATB7x" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.automation.com.ex_selenium.ex_27102024.*" />
+          <option name="PATTERN" value="org.automation.com.ex_selenium.ex_02112024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="org.automation.com.ex_selenium.ex_27102024" />
-      <option name="MAIN_CLASS_NAME" value="org.automation.com.ex_selenium.ex_27102024.Selenium_WebTables" />
-      <option name="METHOD_NAME" value="Test_WebTables" />
+      <option name="PACKAGE_NAME" value="org.automation.com.ex_selenium.ex_02112024" />
+      <option name="MAIN_CLASS_NAME" value="org.automation.com.ex_selenium.ex_02112024.RelativeLocators_P2" />
+      <option name="METHOD_NAME" value="relativeLocators_Test" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -134,35 +153,35 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WebTables_Assignment_OrangeHRM" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="RelativeLocators.relativeLocators_Test" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="SeleniumLearningATB7x" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.automation.com.ex_selenium.ex_27102024.*" />
+          <option name="PATTERN" value="org.automation.com.ex_selenium.ex_02112024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="org.automation.com.ex_selenium.ex_27102024" />
-      <option name="MAIN_CLASS_NAME" value="org.automation.com.ex_selenium.ex_27102024.WebTables_Assignment_OrangeHRM" />
+      <option name="PACKAGE_NAME" value="org.automation.com.ex_selenium.ex_02112024" />
+      <option name="MAIN_CLASS_NAME" value="org.automation.com.ex_selenium.ex_02112024.RelativeLocators" />
+      <option name="METHOD_NAME" value="relativeLocators_Test" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Selenium55_Relative_Locators_P3" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumLearningATB7x" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.automation.com.ex_selenium.ex_02112024.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.automation.com.ex_selenium.ex_02112024" />
+      <option name="MAIN_CLASS_NAME" value="org.automation.com.ex_selenium.ex_02112024.Selenium55_Relative_Locators_P3" />
       <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="WebTables_Assignment_OrangeHRM.deleteTerminatedEmployee" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="SeleniumLearningATB7x" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.automation.com.ex_selenium.ex_27102024.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="org.automation.com.ex_selenium.ex_27102024" />
-      <option name="MAIN_CLASS_NAME" value="org.automation.com.ex_selenium.ex_27102024.WebTables_Assignment_OrangeHRM" />
-      <option name="METHOD_NAME" value="deleteTerminatedEmployee" />
-      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
@@ -171,11 +190,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.WebTables_Assignment_OrangeHRM.deleteTerminatedEmployee" />
-        <item itemvalue="TestNG.WebTables_Assignment_OrangeHRM" />
-        <item itemvalue="TestNG.Selenium_WebTables.Test_WebTables" />
-        <item itemvalue="TestNG.Selenium_JSExecutor_2.test_js" />
-        <item itemvalue="TestNG.Selenium_JSExecutor.test_JS_ExecutorDemo" />
+        <item itemvalue="TestNG.Selenium55_Relative_Locators_P3" />
+        <item itemvalue="TestNG.RelativeLocators_P2.relativeLocators_Test" />
+        <item itemvalue="TestNG.RelativeLocators.relativeLocators_Test" />
+        <item itemvalue="TestNG.DragAndDrop.DragAndDropTest" />
+        <item itemvalue="TestNG.FileUpload.webTable_Test" />
       </list>
     </recent_temporary>
   </component>
@@ -204,12 +223,21 @@
       <option name="project" value="LOCAL" />
       <updated>1729329228975</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="27th Oct-Task-Webtable">
+      <option name="closed" value="true" />
+      <created>1730816880797</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1730816880797</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test" />
     <MESSAGE value="19th Oct-Task" />
-    <option name="LAST_COMMIT_MESSAGE" value="19th Oct-Task" />
+    <MESSAGE value="27th Oct-Task-Webtable" />
+    <option name="LAST_COMMIT_MESSAGE" value="27th Oct-Task-Webtable" />
   </component>
 </project>
